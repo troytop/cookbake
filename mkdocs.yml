@@ -1,6 +1,10 @@
 site_name: CookBake 
 nav:
   - Home: index.md
-  - Breads: 
-    - bake/breads/sourdough.md
+  - Cook:
+    - Casserole:
+      - Seafood Lasagna: cook/casserole/seafood-lasagna.md
+  - Bake: 
+    - Breads: 
+      - Sourdough: bake/breads/sourdough.md
 theme: lux 
