@@ -1,0 +1,6 @@
+site_name: CookBake 
+nav:
+  - Home: index.md
+  - Breads: 
+    - bake/breads/sourdough.md
+theme: lux 
