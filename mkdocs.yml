@@ -7,4 +7,5 @@ nav:
   - Bake: 
     - Breads: 
       - Sourdough: bake/breads/sourdough.md
+      - Bread in One Hour: bake/breads/bread-in-one-hour.md
 theme: lux 
